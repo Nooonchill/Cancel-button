@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\NoooN\AppData\Local\JetBrains\Rider2022.3\resharper-host\temp\Rider\vAny\CoverageData\_LitimitedSizeStack.19\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4ffed63b_002D462d_002D4b47_002Db315_002Dfe7e92543644/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CanUndo_ReturnsFalse_WhenUndoLimitIsReached" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;7734FEB5-7FB7-8FC8-AFAA-6B780F3F38F0/f:ListModel_should.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;7734FEB5-7FB7-8FC8-AFAA-6B780F3F38F0/f:LimitedSizeStack_should.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9a214874_002D84dd_002D4938_002D9689_002Df6129e3a5898/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="BeEmpty_AfterCreation" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
